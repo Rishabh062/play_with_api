@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/play-with-api/static/css/main.b3c4ad32.css",
+    "main.js": "/play-with-api/static/js/main.136cf2d4.js",
+    "index.html": "/play-with-api/index.html",
+    "main.b3c4ad32.css.map": "/play-with-api/static/css/main.b3c4ad32.css.map",
+    "main.136cf2d4.js.map": "/play-with-api/static/js/main.136cf2d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3c4ad32.css",
+    "static/js/main.136cf2d4.js"
+  ]
+}
